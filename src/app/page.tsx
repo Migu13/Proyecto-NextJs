@@ -17,9 +17,6 @@ export default function Home() {
           <Link href="/catalogo" className="btn">
             Ver Catálogo
           </Link>
-          <Link href="#" className={`btn ${styles.btnOutline}`}>
-            Saber Más
-          </Link>
         </div>
       </section>
     </div>

@@ -36,17 +36,6 @@
   flex-wrap: wrap;
 }
 
-.btnOutline {
-  background: transparent;
-  border: 1px solid var(--glass-border);
-  box-shadow: none;
-}
-
-.btnOutline:hover {
-  background: rgba(255, 255, 255, 0.05);
-  box-shadow: none;
-  border-color: rgba(255, 255, 255, 0.2);
-}
 
 @keyframes fadeIn {
   from {
